@@ -14,7 +14,7 @@ categories:
 URL: "/2021/09/26/richmond-visit-1"
 
 ---
-The Roads are very tilty, many spaces abound. The beer is good and the food is arguably even better. No, just kidding. the beer is unbeatable.
+The Roads are very tilty, but many spaces abound. The beer is good and the food is arguably even better. No, just kidding. the beer is unbeatable.
 
 <!--more-->
 > "Scott's Addition is Bongo-Bonkerssss" - Bryn
