@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Richmond, VA - Our Second Visit"
-subtitle:   "I hope you like coffee!"
+subtitle:   "Every City Should Have a Scott's Addition"
 date:       2021-09-26 11:00:00
 author:     ": Josh - "
-image: "https://img.zhaohuabing.com/in-post/2018-05-06-cryptocurrency_week1/bitcoin_header.jpg"
+image: "img/scotts_addition_mural.jpeg"
 published: true 
 tags:
     - Richmond 
