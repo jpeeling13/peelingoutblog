@@ -1,4 +1,4 @@
-(min-width:1200px){
+@media (min-width:1200px){
     .post-container,.sidebar-container{
         padding-right:5%
     }
@@ -464,10 +464,17 @@ pre code{
     font-style:italic;
     margin-top:0
 }
-
 .post-preview>.post-meta>a:hover,.post-preview>.post-meta>a:focus{
     color:#0085a1;
     text-decoration:none
+}
+.post-content-preview{
+    font-size:13px;
+    font-style:italic;
+    color:#a3a3a3;
+}
+.post-content-preview:hover{
+    color:#a3a3a3;
 }
 @media only screen and (min-width:768px){
     .post-preview>a>.post-title{
@@ -481,14 +488,6 @@ pre code{
     .post-preview .post-meta{
         font-size:18px
     }
-}
-.post-content-preview{
-    font-size:13px;
-    font-style:italic;
-    color:#a3a3a3
-}
-.post-content-preview:hover{
-    color:#0085a1
 }
 @media only screen and (min-width:768px){
     .post-content-preview{

@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Richmond, VA - Our Second Visit"
-subtitle:   "Every City Should Have a Scott's Addition"
+title:      "Richmond, VA - Visit #2"
+subtitle:   "I want to find the Scott's Edition of every city"
 date:       2021-09-26 11:00:00
-author:     ": Josh - "
+author:     ": Josh"
 image: "img/scotts_addition_mural.jpeg"
 published: true 
 tags:
@@ -11,10 +11,10 @@ tags:
     - Travel
 categories: 
     - Travel Guides
-URL: "/2021/09/26/richmond-visit-1"
+URL: "/2021/09/26/richmond-visit-2"
 
 ---
-The Roads are very tilty, but many spaces abound. The beer is good and the food is arguably even better. No, just kidding. the beer is unbeatable.
+Scott's Edition is fyre. The beer is good and the food is arguably even better. No, just kidding. the beer is unbeatable.
 
 <!--more-->
 > "Scott's Addition is Bongo-Bonkerssss" - Bryn
