@@ -19,7 +19,7 @@ Scott's Edition is definitely worth the visit alone. The food is good and the be
 <!--more-->
 ![Eating at Mekong Restaurant!](/img/richmond/mekong_restaurant.png)
 
-> Eating various vietnamese delights - Mekong Restaurant
+> Eating various vietnamese delights in the no fuss fast-paced atmosphere - Mekong Restaurant
 
 # Overview
 The surroundings have the old industrial rebirth feel about it, new tech start-ups adjacent to classic american tattoo parlors, arcade bars and so many micro breweries you couldn't hit them all in a day if you tried. The neighborhood still has so much growth to achieve, but what's already there is precious. We've only visited 3 times so far, don't have any friends or family currently living there (or ever did) but can't help but get that homesick feeling after not being there for too long. It's just that kind of place.
