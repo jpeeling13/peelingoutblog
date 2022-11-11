@@ -30,9 +30,11 @@ jobs:
         aws-region: us-east-2
 
     - name: Deploy static site to S3 bucket
+      id: deploy-to-s3
       run: aws s3 sync ./public/ s3://peelingout.life --delete
       
     - name: Invalidate CloudFront
+      if: steps.deploy-to-s3.outcome == 'success'
       uses: chetan/invalidate-cloudfront-action@v2
       env:
         DISTRIBUTION: ${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION }}
