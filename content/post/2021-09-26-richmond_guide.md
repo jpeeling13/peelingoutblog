@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Richmond, VA"
-subtitle:   "The first city where we confirmed - vanlife is life"
+subtitle:   "The first city where we confirmed that vanlife is life"
 date:       2022-11-04 11:00:00
 author:     ": Josh"
 image: "img/richmond/scotts_addition_mural.jpeg"
