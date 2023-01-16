@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'BD Supper';
+    src: url('/fonts/BDSupperRegular.eot');
+    src: local('BD Supper'), local('BDSupperRegular'),
+        url('/fonts/BDSupperRegular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/BDSupperRegular.woff2') format('woff2'),
+        url('/fonts/BDSupperRegular.woff') format('woff'),
+        url('/fonts/BDSupperRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BD Supper';
+    src: url('/fonts/BDSupperBold.eot');
+    src: local('BD Supper Bold'), local('BDSupperBold'),
+        url('/fonts/BDSupperBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/BDSupperBold.woff2') format('woff2'),
+        url('/fonts/BDSupperBold.woff') format('woff'),
+        url('/fonts/BDSupperBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

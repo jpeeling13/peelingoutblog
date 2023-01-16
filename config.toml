@@ -59,7 +59,7 @@ home = ["HTML", "Algolia"]
   about_me = true
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
-  custom_css = ["css/peelingout_custom.css"]
+  custom_css = ["css/BDSupper.css", "css/peelingout_custom.css"]
   custom_js = ["js/reward.js"]
 
   [params.social]
